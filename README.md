@@ -1,14 +1,18 @@
-# ble
+# BLE-Programing-Testing-board-rev2
 
 Due to the weird packaging of the Bluetooth devices, programming/testing them before being soldered is nearly impossible. This board will take advantage of some "Flex pins" and it will be able to program and test the following devices: RN4870/RN4871/RN4678.
+
 Download the repo and open BLE BOARD.PrjPcb using Altium Designer preferably.
+
 ![image](https://github.com/VladManoleCAE/ble/assets/133333286/9370408f-e3df-417e-8383-fe1dfea35bda)
 
 
-You can check out:
-Schematic:
+**You can check out:**
+
+**_Schematic:_**
 ![image](https://github.com/VladManoleCAE/ble/assets/133333286/e56bb5e7-75bf-49a9-b234-74477e74ac63)
-PCB Design:
+
+**_PCB Design:_**
 
 2D Front: 
 ![image](https://github.com/VladManoleCAE/ble/assets/133333286/4354590b-ca44-42d1-bc92-f1dc74df2d32)
