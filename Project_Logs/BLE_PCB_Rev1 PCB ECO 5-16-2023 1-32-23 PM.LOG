@@ -1,0 +1,137 @@
+Removed Pin From Net: NetName=3.3V_3 Pin=C2-1
+Removed Pin From Net: NetName=P02_1 Pin=D3-2
+Removed Pin From Net: NetName=3.3V_3 Pin=D4-1
+Added Component: Designator=R9(RES_C_0805)
+Add component (AddParameter): Name = "MCHP-ID"; Value = "RES1372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MOD_BM70BLES1FC2)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "MCHP-Wireless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.microchip.com/sitesearch/search/Product%20and%20Development%20Tools/RN4870-V/RM118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\MODULE BM70BLES1FC2.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\MOD_BM70BLES1FC2.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "MCHP RF BLUETOOTH RN4870-V/RM118 MODULE-33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Microchip Technology Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RN4870-V/RM118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "MIC6594"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20C to +70C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Jojie Batislaon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Microchip Technology Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RN4870-V/RM118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MODULE BM70BLES1FC2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Bluetooth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RN4870"; VariantName = "[No Variations]"
+Added Component: Designator=U2(RN4871 MODULE-16)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "MCHP-Wireless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/50002489C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\50002489C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\RN4871 MODULE.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\RN4871 MODULE-16.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "MCHP RF BLUETOOTH RN4871-I/RM130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RN4871-I/RM130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "MIC8998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40C to +85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Octavian Stroe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RN4871-I/RM130-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "RN4871 MODULE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Bluetooth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RN4871"; VariantName = "[No Variations]"
+Added Component: Designator=U3(MOD_BM78SPPS5xC2)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "MCHP-Wireless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.microchip.com/sitesearch/search/Product%20and%20Development%20Tools/RN4678-V/RM122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\MODULE BM78SPPS5xC2.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\MOD_BM78SPPS5xC2.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "MCHP RF BLUETOOTH RN4678-V/RM MODULE-33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RN4678-V/RM122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "MIC6625"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Jojie Batislaon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RN4678-V/RM122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MODULE BM78SPPS5xC2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Bluetooth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RN4678"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P02_1 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=3.3V_1 Pin=U1-4
+Added Pin To Net: NetName=VDD_IO Pin=U1-6
+Added Pin To Net: NetName=VDD_IO Pin=U1-7
+Added Pin To Net: NetName=P20 Pin=U1-18
+Added Pin To Net: NetName=RST_N Pin=U1-21
+Added Pin To Net: NetName=P02 Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=RST_N1 Pin=U2-10
+Added Pin To Net: NetName=P02_1 Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=P20_1 Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=3.3V_2 Pin=U3-4
+Added Pin To Net: NetName=INT_3V3 Pin=U3-6
+Added Pin To Net: NetName=INT_3V3 Pin=U3-7
+Added Pin To Net: NetName=LED Pin=U3-30
+Added Pin To Net: NetName=GND Pin=U3-31
+Added Pin To Net: NetName=GND Pin=U3-32
+Added Pin To Net: NetName=GND Pin=U3-33
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D4-1
+Added Pin To Net: NetName=NetC2_1 Pin=U2-14
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R9-2
+Added Net: Name=NetD3_2
+Change Class Name : Old Net Name=Sheet1 New Net Name=BLE_SCH_Rev1
+Added Member To Class: ClassName=BLE_SCH_Rev1 Member=Component R9 Resistor
+Added Member To Class: ClassName=BLE_SCH_Rev1 Member=Component U1 MODULE BM70BLES1FC2
+Added Member To Class: ClassName=BLE_SCH_Rev1 Member=Component U2 RN4871 MODULE
+Added Member To Class: ClassName=BLE_SCH_Rev1 Member=Component U3 MODULE BM78SPPS5xC2
+Change Room Name: Old Name=Sheet1 New Name=BLE_SCH_Rev1
+Change Room Scope: Old Scope=InComponentClass('Sheet1') New Scope=InComponentClass('BLE_SCH_Rev1')

@@ -1,0 +1,447 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\M66089\OneDrive - Microchip Technology Inc\Desktop\Git Ble\BLE BOARD\BLE BOARD\PCB\BLE_PCB_Rev1.PcbDoc
+Date     : 5/18/2023
+Time     : 2:02:05 PM
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InNet('your net here')),((IsRegion))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) ((IsRegion)),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (IsNet),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=7mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : SMD To Corner (Distance=0.1mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.5mm) (Conductor Width=0.3mm) (Air Gap=0.3mm) (Entries=4) (IsVia)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.25mm) (Air Gap=0.25mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(10.171mm,18.584mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(11.271mm,18.584mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(12.371mm,18.584mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(13.471mm,18.584mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(14.571mm,18.584mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(15.671mm,18.584mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,20.447mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,21.547mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,22.647mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,23.747mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,24.847mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,25.947mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,27.047mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,28.147mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,29.247mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,30.347mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,38.729mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(18.631mm,39.829mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-(33.528mm,29.238mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,20.437mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,21.537mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,22.637mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,23.737mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,24.837mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,25.937mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,27.037mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,28.137mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,29.237mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,30.338mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,31.438mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,32.538mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,38.745mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(35.09mm,39.845mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(38.053mm,18.359mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(39.153mm,18.359mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(40.253mm,18.359mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(41.353mm,18.359mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(42.453mm,18.359mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(43.553mm,18.359mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(44.653mm,18.359mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.603mm,20.445mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.603mm,21.545mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.61mm,22.645mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.61mm,23.745mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.61mm,24.845mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.61mm,25.945mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.61mm,27.045mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.61mm,28.145mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.61mm,29.245mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.61mm,30.345mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.61mm,38.745mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(47.61mm,39.845mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,20.432mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,21.532mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,22.632mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,23.732mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,24.832mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,25.932mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,27.032mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,28.132mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,29.232mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,30.332mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,31.432mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,32.532mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,38.729mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(6.069mm,39.829mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.15mm) Pad Free-(9.071mm,18.584mm) on Multi-Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(10.171mm,16.989mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(11.271mm,16.989mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(12.371mm,16.989mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(13.471mm,16.989mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(14.571mm,16.989mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(15.671mm,16.989mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,20.447mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,21.547mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,22.647mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,23.747mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,24.847mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,25.947mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,27.047mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,28.147mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,29.247mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,30.347mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,38.729mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(20.193mm,39.829mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,20.437mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,21.538mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,22.637mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,23.738mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,24.838mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,25.938mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,27.038mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,28.137mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,30.338mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,31.438mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,32.538mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,38.745mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(33.528mm,39.845mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(38.053mm,16.764mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(39.153mm,16.764mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,20.432mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,21.532mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,22.632mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,23.732mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,24.832mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,25.932mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,27.032mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,28.132mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,29.232mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,30.332mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,31.432mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,32.532mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,38.729mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(4.507mm,39.829mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(40.253mm,16.764mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(41.353mm,16.764mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(42.453mm,16.764mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(43.553mm,16.764mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(44.653mm,16.764mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,20.445mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,21.545mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,22.645mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,23.745mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,24.845mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,25.945mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,27.045mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,28.145mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,29.245mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,30.345mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,38.745mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(49.172mm,39.845mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(54.261mm,30.986mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(54.261mm,32.186mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(54.261mm,33.386mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(54.261mm,34.586mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(54.261mm,35.786mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(57.579mm,27.271mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(58.779mm,27.271mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(59.979mm,27.271mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(61.179mm,27.271mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(62.379mm,27.271mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(63.579mm,27.271mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(66.956mm,30.986mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(66.956mm,32.192mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(66.956mm,33.393mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(66.956mm,34.592mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(66.956mm,35.786mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.15mm) Pad Free-2(9.071mm,16.989mm) on Multi-Layer (Annular Ring=0mm) On (Top Layer)
+Rule Violations :148
+
+Processing Rule : Acute Angle Constraint [Tracks Only] (Minimum=90.000) (All)
+   Violation between Acute Angle Constraint: (45.000 < 90.000) Between Track (24.215mm,14.362mm)(24.215mm,27.506mm) on Top Layer And Track (24.215mm,14.362mm)(29.565mm,19.712mm) on Top Layer (Angle = 45.000)
+   Violation between Acute Angle Constraint: (22.498 < 90.000) Between Track (12.383mm,13.356mm)(12.394mm,13.367mm) on Top Layer And Track (12.394mm,13.367mm)(12.394mm,16.983mm) on Top Layer (Angle = 22.498)
+   Violation between Acute Angle Constraint: (22.498 < 90.000) Between Track (12.383mm,13.356mm)(12.394mm,13.367mm) on Top Layer And Track (12.394mm,13.367mm)(12.394mm,16.983mm) on Top Layer (Angle = 22.498)
+Rule Violations :3
+
+Processing Rule : Hole Size Constraint (Min=0.25mm) (Max=6mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(10.171mm,18.584mm) on Multi-Layer And Pad Free-(11.271mm,18.584mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(10.171mm,18.584mm) on Multi-Layer And Pad Free-2(10.171mm,16.989mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(11.271mm,18.584mm) on Multi-Layer And Pad Free-(12.371mm,18.584mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(11.271mm,18.584mm) on Multi-Layer And Pad Free-2(11.271mm,16.989mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(12.371mm,18.584mm) on Multi-Layer And Pad Free-2(12.371mm,16.989mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(13.471mm,18.584mm) on Multi-Layer And Pad Free-2(13.471mm,16.989mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(14.571mm,18.584mm) on Multi-Layer And Pad Free-(15.671mm,18.584mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(14.571mm,18.584mm) on Multi-Layer And Pad Free-2(14.571mm,16.989mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(15.671mm,18.584mm) on Multi-Layer And Pad Free-2(15.671mm,16.989mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,20.447mm) on Multi-Layer And Pad Free-2(20.193mm,20.447mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,21.547mm) on Multi-Layer And Pad Free-2(20.193mm,21.547mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,22.647mm) on Multi-Layer And Pad Free-2(20.193mm,22.647mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,23.747mm) on Multi-Layer And Pad Free-2(20.193mm,23.747mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(18.631mm,24.847mm) on Multi-Layer And Pad Free-(18.631mm,25.947mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,24.847mm) on Multi-Layer And Pad Free-2(20.193mm,24.847mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(18.631mm,25.947mm) on Multi-Layer And Pad Free-(18.631mm,27.047mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,25.947mm) on Multi-Layer And Pad Free-2(20.193mm,25.947mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,27.047mm) on Multi-Layer And Pad Free-2(20.193mm,27.047mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,28.147mm) on Multi-Layer And Pad Free-2(20.193mm,28.147mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,29.247mm) on Multi-Layer And Pad Free-2(20.193mm,29.247mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,30.347mm) on Multi-Layer And Pad Free-2(20.193mm,30.347mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,38.729mm) on Multi-Layer And Pad Free-2(20.193mm,38.729mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(18.631mm,39.829mm) on Multi-Layer And Pad Free-2(20.193mm,39.829mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(33.528mm,29.238mm) on Multi-Layer And Pad Free-(35.09mm,29.237mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,20.437mm) on Multi-Layer And Pad Free-2(33.528mm,20.437mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,21.537mm) on Multi-Layer And Pad Free-2(33.528mm,21.538mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,22.637mm) on Multi-Layer And Pad Free-2(33.528mm,22.637mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(35.09mm,23.737mm) on Multi-Layer And Pad Free-(35.09mm,24.837mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,23.737mm) on Multi-Layer And Pad Free-2(33.528mm,23.738mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(35.09mm,24.837mm) on Multi-Layer And Pad Free-(35.09mm,25.937mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,24.837mm) on Multi-Layer And Pad Free-2(33.528mm,24.838mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,25.937mm) on Multi-Layer And Pad Free-2(33.528mm,25.938mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,27.037mm) on Multi-Layer And Pad Free-2(33.528mm,27.038mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,28.137mm) on Multi-Layer And Pad Free-2(33.528mm,28.137mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,30.338mm) on Multi-Layer And Pad Free-2(33.528mm,30.338mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,31.438mm) on Multi-Layer And Pad Free-2(33.528mm,31.438mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,32.538mm) on Multi-Layer And Pad Free-2(33.528mm,32.538mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,38.745mm) on Multi-Layer And Pad Free-2(33.528mm,38.745mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(35.09mm,39.845mm) on Multi-Layer And Pad Free-2(33.528mm,39.845mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(38.053mm,18.359mm) on Multi-Layer And Pad Free-2(38.053mm,16.764mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(39.153mm,18.359mm) on Multi-Layer And Pad Free-(40.253mm,18.359mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(39.153mm,18.359mm) on Multi-Layer And Pad Free-2(39.153mm,16.764mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(40.253mm,18.359mm) on Multi-Layer And Pad Free-(41.353mm,18.359mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(40.253mm,18.359mm) on Multi-Layer And Pad Free-2(40.253mm,16.764mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(41.353mm,18.359mm) on Multi-Layer And Pad Free-2(41.353mm,16.764mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(42.453mm,18.359mm) on Multi-Layer And Pad Free-2(42.453mm,16.764mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(43.553mm,18.359mm) on Multi-Layer And Pad Free-(44.653mm,18.359mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(43.553mm,18.359mm) on Multi-Layer And Pad Free-2(43.553mm,16.764mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(44.653mm,18.359mm) on Multi-Layer And Pad Free-2(44.653mm,16.764mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.069mm < 0.15mm) Between Pad Free-(47.603mm,20.445mm) on Multi-Layer And Pad Free-2(49.172mm,20.445mm) on Multi-Layer [Top Solder] Mask Sliver [0.069mm] / [Bottom Solder] Mask Sliver [0.069mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.069mm < 0.15mm) Between Pad Free-(47.603mm,21.545mm) on Multi-Layer And Pad Free-2(49.172mm,21.545mm) on Multi-Layer [Top Solder] Mask Sliver [0.069mm] / [Bottom Solder] Mask Sliver [0.069mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(47.61mm,22.645mm) on Multi-Layer And Pad Free-2(49.172mm,22.645mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(47.61mm,23.745mm) on Multi-Layer And Pad Free-2(49.172mm,23.745mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(47.61mm,24.845mm) on Multi-Layer And Pad Free-(47.61mm,25.945mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(47.61mm,24.845mm) on Multi-Layer And Pad Free-2(49.172mm,24.845mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(47.61mm,25.945mm) on Multi-Layer And Pad Free-(47.61mm,27.045mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(47.61mm,25.945mm) on Multi-Layer And Pad Free-2(49.172mm,25.945mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(47.61mm,27.045mm) on Multi-Layer And Pad Free-2(49.172mm,27.045mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(47.61mm,28.145mm) on Multi-Layer And Pad Free-2(49.172mm,28.145mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(47.61mm,29.245mm) on Multi-Layer And Pad Free-2(49.172mm,29.245mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(47.61mm,30.345mm) on Multi-Layer And Pad Free-2(49.172mm,30.345mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(47.61mm,38.745mm) on Multi-Layer And Pad Free-2(49.172mm,38.745mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(47.61mm,39.845mm) on Multi-Layer And Pad Free-2(49.172mm,39.845mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(55.828mm,30.986mm) on Multi-Layer And Pad Free-(55.828mm,32.186mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.15mm) Between Pad Free-(55.828mm,30.986mm) on Multi-Layer And Pad Free-2(54.261mm,30.986mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(55.828mm,32.186mm) on Multi-Layer And Pad Free-(55.828mm,33.386mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.15mm) Between Pad Free-(55.828mm,32.186mm) on Multi-Layer And Pad Free-2(54.261mm,32.186mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(55.828mm,33.386mm) on Multi-Layer And Pad Free-(55.828mm,34.586mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.15mm) Between Pad Free-(55.828mm,33.386mm) on Multi-Layer And Pad Free-2(54.261mm,33.386mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(55.828mm,34.586mm) on Multi-Layer And Pad Free-(55.828mm,35.786mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.15mm) Between Pad Free-(55.828mm,34.586mm) on Multi-Layer And Pad Free-2(54.261mm,34.586mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.15mm) Between Pad Free-(55.828mm,35.786mm) on Multi-Layer And Pad Free-2(54.261mm,35.786mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(57.579mm,28.829mm) on Multi-Layer And Pad Free-(58.779mm,28.829mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.058mm < 0.15mm) Between Pad Free-(57.579mm,28.829mm) on Multi-Layer And Pad Free-2(57.579mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.058mm] / [Bottom Solder] Mask Sliver [0.058mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(58.779mm,28.829mm) on Multi-Layer And Pad Free-(59.979mm,28.829mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.058mm < 0.15mm) Between Pad Free-(58.779mm,28.829mm) on Multi-Layer And Pad Free-2(58.779mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.058mm] / [Bottom Solder] Mask Sliver [0.058mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(59.979mm,28.829mm) on Multi-Layer And Pad Free-(61.179mm,28.829mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.058mm < 0.15mm) Between Pad Free-(59.979mm,28.829mm) on Multi-Layer And Pad Free-2(59.979mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.058mm] / [Bottom Solder] Mask Sliver [0.058mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,20.432mm) on Multi-Layer And Pad Free-2(4.507mm,20.432mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,21.532mm) on Multi-Layer And Pad Free-2(4.507mm,21.532mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,22.632mm) on Multi-Layer And Pad Free-2(4.507mm,22.632mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(6.069mm,23.732mm) on Multi-Layer And Pad Free-(6.069mm,24.832mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,23.732mm) on Multi-Layer And Pad Free-2(4.507mm,23.732mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-(6.069mm,24.832mm) on Multi-Layer And Pad Free-(6.069mm,25.932mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,24.832mm) on Multi-Layer And Pad Free-2(4.507mm,24.832mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,25.932mm) on Multi-Layer And Pad Free-2(4.507mm,25.932mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,27.032mm) on Multi-Layer And Pad Free-2(4.507mm,27.032mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,28.132mm) on Multi-Layer And Pad Free-2(4.507mm,28.132mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,29.232mm) on Multi-Layer And Pad Free-2(4.507mm,29.232mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,30.332mm) on Multi-Layer And Pad Free-2(4.507mm,30.332mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,31.432mm) on Multi-Layer And Pad Free-2(4.507mm,31.432mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,32.532mm) on Multi-Layer And Pad Free-2(4.507mm,32.532mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,38.729mm) on Multi-Layer And Pad Free-2(4.507mm,38.729mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.15mm) Between Pad Free-(6.069mm,39.829mm) on Multi-Layer And Pad Free-2(4.507mm,39.829mm) on Multi-Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(61.179mm,28.829mm) on Multi-Layer And Pad Free-(62.379mm,28.829mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.058mm < 0.15mm) Between Pad Free-(61.179mm,28.829mm) on Multi-Layer And Pad Free-2(61.179mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.058mm] / [Bottom Solder] Mask Sliver [0.058mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(62.379mm,28.829mm) on Multi-Layer And Pad Free-(63.579mm,28.829mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.058mm < 0.15mm) Between Pad Free-(62.379mm,28.829mm) on Multi-Layer And Pad Free-2(62.379mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.058mm] / [Bottom Solder] Mask Sliver [0.058mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.058mm < 0.15mm) Between Pad Free-(63.579mm,28.829mm) on Multi-Layer And Pad Free-2(63.579mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.058mm] / [Bottom Solder] Mask Sliver [0.058mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(65.4mm,30.986mm) on Multi-Layer And Pad Free-(65.4mm,32.186mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.056mm < 0.15mm) Between Pad Free-(65.4mm,30.986mm) on Multi-Layer And Pad Free-2(66.956mm,30.986mm) on Multi-Layer [Top Solder] Mask Sliver [0.056mm] / [Bottom Solder] Mask Sliver [0.056mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(65.4mm,32.186mm) on Multi-Layer And Pad Free-(65.4mm,33.386mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.056mm < 0.15mm) Between Pad Free-(65.4mm,32.186mm) on Multi-Layer And Pad Free-2(66.956mm,32.192mm) on Multi-Layer [Top Solder] Mask Sliver [0.056mm] / [Bottom Solder] Mask Sliver [0.056mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(65.4mm,33.386mm) on Multi-Layer And Pad Free-(65.4mm,34.586mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.056mm < 0.15mm) Between Pad Free-(65.4mm,33.386mm) on Multi-Layer And Pad Free-2(66.956mm,33.393mm) on Multi-Layer [Top Solder] Mask Sliver [0.056mm] / [Bottom Solder] Mask Sliver [0.056mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.15mm) Between Pad Free-(65.4mm,34.586mm) on Multi-Layer And Pad Free-(65.4mm,35.786mm) on Multi-Layer [Top Solder] Mask Sliver [0.05mm] / [Bottom Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.056mm < 0.15mm) Between Pad Free-(65.4mm,34.586mm) on Multi-Layer And Pad Free-2(66.956mm,34.592mm) on Multi-Layer [Top Solder] Mask Sliver [0.056mm] / [Bottom Solder] Mask Sliver [0.056mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.056mm < 0.15mm) Between Pad Free-(65.4mm,35.786mm) on Multi-Layer And Pad Free-2(66.956mm,35.786mm) on Multi-Layer [Top Solder] Mask Sliver [0.056mm] / [Bottom Solder] Mask Sliver [0.056mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.15mm) Between Pad Free-(9.071mm,18.584mm) on Multi-Layer And Pad Free-2(9.071mm,16.989mm) on Multi-Layer [Top Solder] Mask Sliver [0.095mm] / [Bottom Solder] Mask Sliver [0.095mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-2(11.271mm,16.989mm) on Multi-Layer And Pad Free-2(12.371mm,16.989mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-2(20.193mm,25.947mm) on Multi-Layer And Pad Free-2(20.193mm,27.047mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-2(33.528mm,21.538mm) on Multi-Layer And Pad Free-2(33.528mm,22.637mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-2(33.528mm,27.038mm) on Multi-Layer And Pad Free-2(33.528mm,28.137mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-2(4.507mm,21.532mm) on Multi-Layer And Pad Free-2(4.507mm,22.632mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-2(4.507mm,27.032mm) on Multi-Layer And Pad Free-2(4.507mm,28.132mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-2(40.253mm,16.764mm) on Multi-Layer And Pad Free-2(41.353mm,16.764mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.15mm < 0.15mm) Between Pad Free-2(49.172mm,25.945mm) on Multi-Layer And Pad Free-2(49.172mm,27.045mm) on Multi-Layer [Top Solder] Mask Sliver [0.15mm] / [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad Free-2(54.261mm,30.986mm) on Multi-Layer And Pad Free-2(54.261mm,32.186mm) on Multi-Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad Free-2(54.261mm,32.186mm) on Multi-Layer And Pad Free-2(54.261mm,33.386mm) on Multi-Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad Free-2(54.261mm,33.386mm) on Multi-Layer And Pad Free-2(54.261mm,34.586mm) on Multi-Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad Free-2(54.261mm,34.586mm) on Multi-Layer And Pad Free-2(54.261mm,35.786mm) on Multi-Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad Free-2(57.579mm,27.271mm) on Multi-Layer And Pad Free-2(58.779mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad Free-2(58.779mm,27.271mm) on Multi-Layer And Pad Free-2(59.979mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad Free-2(59.979mm,27.271mm) on Multi-Layer And Pad Free-2(61.179mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad Free-2(61.179mm,27.271mm) on Multi-Layer And Pad Free-2(62.379mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad Free-2(62.379mm,27.271mm) on Multi-Layer And Pad Free-2(63.579mm,27.271mm) on Multi-Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.15mm) Between Pad Free-2(66.956mm,30.986mm) on Multi-Layer And Pad Free-2(66.956mm,32.192mm) on Multi-Layer [Top Solder] Mask Sliver [0.106mm] / [Bottom Solder] Mask Sliver [0.106mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.101mm < 0.15mm) Between Pad Free-2(66.956mm,32.192mm) on Multi-Layer And Pad Free-2(66.956mm,33.393mm) on Multi-Layer [Top Solder] Mask Sliver [0.101mm] / [Bottom Solder] Mask Sliver [0.101mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099mm < 0.15mm) Between Pad Free-2(66.956mm,33.393mm) on Multi-Layer And Pad Free-2(66.956mm,34.592mm) on Multi-Layer [Top Solder] Mask Sliver [0.099mm] / [Bottom Solder] Mask Sliver [0.099mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.094mm < 0.15mm) Between Pad Free-2(66.956mm,34.592mm) on Multi-Layer And Pad Free-2(66.956mm,35.786mm) on Multi-Layer [Top Solder] Mask Sliver [0.094mm] / [Bottom Solder] Mask Sliver [0.094mm]
+Rule Violations :130
+
+Processing Rule : Silk To Solder Mask (Clearance=0.2mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.2mm) Between Pad SW5-1(30.948mm,23.717mm) on Multi-Layer And Track (31.948mm,18.217mm)(31.948mm,25.217mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.2mm) Between Pad SW5-2(30.948mm,21.717mm) on Multi-Layer And Track (31.948mm,18.217mm)(31.948mm,25.217mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.2mm) Between Pad SW5-3(30.948mm,19.717mm) on Multi-Layer And Track (31.948mm,18.217mm)(31.948mm,25.217mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.2mm) Between Pad SW5-4(25.948mm,23.717mm) on Multi-Layer And Track (24.948mm,18.217mm)(24.948mm,25.217mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.2mm) Between Pad SW5-5(25.948mm,21.717mm) on Multi-Layer And Track (24.948mm,18.217mm)(24.948mm,25.217mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.2mm) Between Pad SW5-6(25.948mm,19.717mm) on Multi-Layer And Track (24.948mm,18.217mm)(24.948mm,25.217mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+Rule Violations :6
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.119mm < 0.15mm) Between Text "." (13.471mm,10.856mm) on Top Overlay And Track (13.471mm,11.456mm)(13.471mm,15.256mm) on Top Overlay Silk Text to Silk Clearance [0.119mm]
+   Violation between Silk To Silk Clearance Constraint: (0.119mm < 0.15mm) Between Text "." (13.471mm,10.856mm) on Top Overlay And Track (3.671mm,11.456mm)(13.471mm,11.456mm) on Top Overlay Silk Text to Silk Clearance [0.119mm]
+   Violation between Silk To Silk Clearance Constraint: (0.022mm < 0.15mm) Between Text "D3" (66.047mm,20.574mm) on Top Overlay And Track (59.577mm,20.375mm)(81.077mm,20.375mm) on Top Overlay Silk Text to Silk Clearance [0.022mm]
+   Violation between Silk To Silk Clearance Constraint: (0.075mm < 0.15mm) Between Text "HERE" (58.262mm,31.895mm) on Top Overlay And Text "RN4871" (57.541mm,33.497mm) on Top Overlay Silk Text to Silk Clearance [0.075mm]
+   Violation between Silk To Silk Clearance Constraint: (0.022mm < 0.15mm) Between Text "R4" (63.007mm,20.574mm) on Top Overlay And Track (59.577mm,20.375mm)(81.077mm,20.375mm) on Top Overlay Silk Text to Silk Clearance [0.022mm]
+   Violation between Silk To Silk Clearance Constraint: (0.106mm < 0.15mm) Between Text "RN4871" (52.363mm,16.845mm) on Top Overlay And Track (59.577mm,1.355mm)(59.577mm,19.375mm) on Top Overlay Silk Text to Silk Clearance [0.106mm]
+Rule Violations :6
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (OnLayer('Top Overlay','Bottom Overlay'))
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Region (0 hole(s)) Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "*h" (227.7mm,-148.796mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "'.Layer_Name'" (300.5mm,-177.546mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "'.Layer_Name'" (300.5mm,-177.546mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "'.ProjectPartNumber'" (231.5mm,-131.796mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "'.ProjectRevisionART'" (335.678mm,-177.368mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "'.ProjectRevisionART'" (335.678mm,-177.368mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "0" (298.5mm,-132.99mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "1" (260.096mm,-131.445mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "1" (308.5mm,-132.99mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "2" (318.5mm,-133.023mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "3" (328.5mm,-133.023mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "4" (338.58mm,-133.023mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "5" (278.5mm,-132.99mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "6" (268.5mm,-133.023mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "7" (288.5mm,-132.99mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "C" (251.245mm,-130.839mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "chipKIT™" (222.25mm,-157.546mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "dsPIC®" (222.25mm,-163.796mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "dsPICDEM.net™" (185.75mm,-157.546mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "dsPICDEM™" (185.5mm,-163.296mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "ICD" (284.4mm,-140.796mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "M" (262mm,-147.296mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "MPLAB®" (208mm,-163.796mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "mTouch®" (208mm,-157.546mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "PIC®" (222.25mm,-169.796mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "PICDEM.net™" (185.5mm,-169.546mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "PICDEM™" (185.5mm,-176.046mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "PICkit™" (208.25mm,-169.796mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "PICtail™" (208.25mm,-176.046mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "?" (244.245mm,-132.142mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "?" (335mm,-147.78mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "?" (315mm,-147.755mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "?" (286mm,-150.796mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "?" (305mm,-147.78mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "?" (346mm,-147.955mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "?" (294mm,-147.78mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "?" (324mm,-147.78mm) on Top Overlay 
+Rule Violations :38
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "'.Layer_Name'" (300.5mm,-177.546mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "'.Layer_Name'" (300.5mm,-177.546mm) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text ".ProjectRevisionART" (335.678mm,-177.368mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text ".ProjectRevisionART" (335.678mm,-177.368mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "'.ProjectRevisionART'" (335.678mm,-177.368mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "'.ProjectRevisionART'" (335.678mm,-177.368mm) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "04-'.ProjectPCBNumber'-R'.ProjectRevisionART'" (242mm,-127.296mm) on Bottom Layer 
+Rule Violations :7
+
+Processing Rule : Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1'))
+   Violation between Room Definition: Between DIP Component SW5-Switch on-off 6 Pin (28.448mm,21.717mm) on Top Layer And Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) 
+   Violation between Room Definition: Between DIP Component SW6-Switch DIP 3 Pos (38.227mm,9.886mm) on Top Layer And Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SIP Component J4_1-Header 1x7 (69.857mm,17.995mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SIP Component J5_1-Header 1x7 (69.857mm,2.755mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And Small Component RN4678-Header 1x2 (56.362mm,9.475mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And Small Component RN4870-Header 1x2 (56.362mm,4.155mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And Small Component RN4871-Header 1x2 (56.362mm,14.839mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And Small Component SW1-Switch DIP 1 Pos (8.571mm,13.356mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And Small Component SW2-Switch DIP 1 Pos (75.177mm,31.973mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component C1-Capacitor NP (2.192mm,29.845mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component C2-Capacitor NP (69.407mm,31.893mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component C3-Capacitor NP (30.894mm,29.912mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component D2-LED_blue (22.84mm,28.181mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component D3-LED_blue (66.956mm,24.418mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component D5-LED_blue (51.308mm,30.295mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component R12-Resistor (22.89mm,23.2mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component R1-Resistor (2.565mm,14.29mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component R2-Resistor (76.073mm,25.622mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component R3-Resistor (21.94mm,16.983mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component R4-Resistor (64.516mm,24.318mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component R5-Resistor (29.993mm,26.59mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component R6-Resistor (45.564mm,7.346mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component R7-Resistor (45.564mm,9.886mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component R8-Resistor (45.564mm,12.426mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component R9-Resistor (66.956mm,28.575mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component SW3-Switch 2 Pin (16.738mm,9.689mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component SW4-Switch 2 Pin (58.547mm,23.622mm) on Top Layer 
+   Violation between Room Definition: Between Room BLE_SCH_Rev1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BLE_SCH_Rev1')) And SMT Small Component SW7-Switch 2 Pin (28.956mm,9.886mm) on Top Layer 
+Rule Violations :28
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.2mm, Vertical Gap = 0.2mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (HasFootprint('NET_TIE_0.5mm')),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 366
+Waived Violations : 0
+Time Elapsed        : 00:00:02
